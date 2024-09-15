@@ -1,8 +1,8 @@
 # Pixel Hero
 
-A turn-based battle game made for my Computer Science group project in senior high school in 2021.
+A turn-based battle game made for my Computer Science group project in senior high school.
 
-This project was coded in Java SE 8, using the NetBeans IDE.
+This project was coded in Java SE 8, using the NetBeans IDE and was made back in 2021.
 
 The game's battle system is based on the battle mechanics featured in the Pokémon video game series and in the video game, Persona 4.
 
