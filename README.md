@@ -1,4 +1,4 @@
-# Pixel-Hero
+# Pixel Hero
 
 A turn-based battle game made for my Computer Science group project in senior high school in 2021.
 
