@@ -37,10 +37,10 @@ Make sure that you have Java installed in your system. Download the dist folder 
 ### Battle System, Player Abilities & Items, Fire Demon AI & Abilities, Menus & HUD, Music (for original ver.): 
 Rocco Fernando Gadista
 
-### Ragnarok Demon AI & Abilities, Menus & HUD:
+### Ragnarok AI & Abilities, Menus & HUD:
 Suchana Regmi
 
-### Knight Demon AI & Abilities, Menus & HUD:
+### Knight AI & Abilities, Menus & HUD:
 Cheliyan Sabesan
 
 ## Assets 
