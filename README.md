@@ -7,13 +7,11 @@ This project was coded in Java SE 8 using the NetBeans IDE and was made back in 
 The game's battle system is based on the battle mechanics featured in the Pokémon video game series and in the video game, Persona 4.
 
 ### Note:
-
 The original version of this project would play songs from the Persona 4 Golden (Steam) Digital Deluxe Soundtrack that I owned, however this has been removed due to copyright. As a result, the code for playing music has been commented out.
 
 # How to Run
 
-### Note: 
-Make sure that you have Java installed in your system. 
+### Important: Make sure that you have Java installed in your system. 
 
 <br>Download Pixel Hero.zip from the latest release and extract the zipped file. Then, run the jar file to play the game.
 
