@@ -12,7 +12,10 @@ The original version of this project would play songs from the Persona 4 Golden 
 
 # How to Run
 
-Make sure that you have Java installed in your system. Download the dist folder and run the jar file to play the game.
+### Note: 
+Make sure that you have Java installed in your system. 
+
+<br>Download Pixel Hero.zip from the latest release and extract the zipped file. Then, run the jar file to play the game.
 
 # Features & Mechanics
 
